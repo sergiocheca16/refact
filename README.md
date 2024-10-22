@@ -11,7 +11,7 @@ Dicho esto... tenemos un problema
 Paco estaba preparando un proyecto en el que iba a sacar en una página web los datos de todos nuestros empleados con su edad, hobbies y demás. 
 También queríamos que saliera una especie de calculadora para poder sumar, restar multiplicar o dividir 2 números y que al pulsar un botón diera el resultado.
 
-Además todos las webs de la compañía tienen nuestro logotipo y en el pie los datos de contacto.
+Además todas las webs de la compañía tienen nuestro logotipo y en el pie los datos de contacto.
 A Paco no le ha dado tiempo a terminarlo, bueno casi ni a empezar este proyecto, así que me dejó dicho que al proximo desarrollador que entrara le pasara este documento, que lo entendería a la perfección. Aquí nadie sabemos nada de webs, solo sabemos de cocretas.
 
 Lo que sí necesitamos es tener esto hecho en menos de 2 horas porque soy el jefe y lo quiero así.
@@ -37,7 +37,7 @@ Esto te lo tengo que decir, aunque yo no lo he aplicado nunca. Recuerda los prin
 También debería modularse porque está todo en el mismo App.jsx
 Pero bueno, yo no soy de modular, pongo el naming que me apetece y que más da, si nadie se va a enterar. En esta empresa solo saben hacer cocretas, pero las webs son lo mío.
 
-Bueno a lo mejor al arrancar la aplicaciónhay algún error que no te deja ver nada... mira a ver la consola que dice.
+Bueno a lo mejor al arrancar la aplicación hay algún error que no te deja ver nada... mira a ver la consola que dice.
 
 Ahh, se me olvidaba, hay algún comentario por ahí, no sé si servirá de algo pero ahí están.
 Suerte!
